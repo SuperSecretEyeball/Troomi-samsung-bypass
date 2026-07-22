@@ -66,8 +66,7 @@ Example:
 
 `SM-A166U1`
 
-> [!NOTE]
-> Keep this information for downloading firmware.
+> Keep this information for downloading the firmware.
 
 ---
 
@@ -103,7 +102,7 @@ If unsure, search:
 ![Screenshot](/assets/odin.png)
 
 > [!WARNING]
-> ⚠️ **Do not place anything in the USERDATA slot. This may permanently brick the device.**
+> **Do not place anything in the USERDATA slot. This may permanently brick the device.**
 
 ---
 
@@ -122,14 +121,14 @@ PRESS ICON NOW.
 The device should now enter **Download Mode**.
 
 > [!WARNING]
-> ⚠️ **Do not disconnect the USB cable while the device is in Download Mode. Disconnecting during flashing may permanently brick the device.**
+> **Do not disconnect the USB cable while the device is in Download Mode. Disconnecting during flashing may permanently brick the device.**
 
 ---
 
 # Step 5: Flash Firmware Using Odin
 
 > [!WARNING]
-> ⚠️ **Remove the SIM card before flashing to prevent damage.**
+> **Remove the SIM card before flashing to prevent damage.**
 
 Confirm odin detects the device.
 
@@ -177,7 +176,6 @@ This:
 
 # Important Notes
 
-> [!NOTE]
 > ⚠️ **This process does not remove the Troomi account or service.**
 
 - If the Troomi subscription is still active, billing may continue.
