@@ -39,22 +39,22 @@ Download and install:
 
 Used to flash Samsung firmware.
 
-Download:
-https://samsungodin.com/
+Download:  
+[samsungodin.com](https://samsungodin.com/)
 
 ### Samsung USB Drivers
 
 Required for Odin to communicate with the device.
 
-Download:
-https://samsungodin.com/
+Download:  
+[samsungodin.com](https://samsungodin.com/)
 
 ### Samsung 300K Tool
 
 Used to enter Samsung Download Mode.
 
-Download:
-https://file268640.kyzwc4.space/
+Download:  
+[file268640.kyzwc4.space](https://file268640.kyzwc4.space/)
 
 ---
 
@@ -71,7 +71,7 @@ Example:
 
 `SM-A166U1`
 
-Keep this information for downloading firmware.
+> Keep this information for downloading the firmware.
 
 ---
 
@@ -106,7 +106,8 @@ If unsure, search:
 
 ![Screenshot](/assets/odin.png)
 
-> ⚠️ **Do not place anything in the USERDATA slot. This may permanently brick the device.**
+{: .warning }
+> **Do not place anything in the USERDATA slot. This may permanently brick the device.**
 
 ---
 
@@ -124,13 +125,15 @@ PRESS ICON NOW.
 
 The device should now enter **Download Mode**.
 
-> ⚠️ **Do not disconnect the USB cable while the device is in Download Mode. Disconnecting during flashing may permanently brick the device.**
+{: .warning }
+> **Do not disconnect the USB cable while the device is in Download Mode. Disconnecting during flashing may permanently brick the device.**
 
 ---
 
 # Step 5: Flash Firmware Using Odin
 
-> ⚠️ **Remove the SIM card before flashing to prevent damage.**
+{: .warning }
+> **Remove the SIM card before flashing to prevent damage.**
 
 Confirm odin detects the device.
 
