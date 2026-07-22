@@ -107,7 +107,7 @@ If unsure, search:
 ![Screenshot](/assets/odin.png)
 
 {: .warning }
-> **Do not place anything in the USERDATA slot. This may permanently brick the device.**
+> ⚠️ **Do not place anything in the USERDATA slot. This may permanently brick the device.**
 
 ---
 
@@ -126,14 +126,14 @@ PRESS ICON NOW.
 The device should now enter **Download Mode**.
 
 {: .warning }
-> **Do not disconnect the USB cable while the device is in Download Mode. Disconnecting during flashing may permanently brick the device.**
+> ⚠️ **Do not disconnect the USB cable while the device is in Download Mode. Disconnecting during flashing may permanently brick the device.**
 
 ---
 
 # Step 5: Flash Firmware Using Odin
 
 {: .warning }
-> **Remove the SIM card before flashing to prevent damage.**
+> ⚠️ **Remove the SIM card before flashing to prevent damage.**
 
 Confirm odin detects the device.
 
