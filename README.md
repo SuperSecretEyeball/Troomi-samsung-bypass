@@ -99,7 +99,7 @@ If unsure, search:
 2. Open Odin 3.14.4.
 3. The extracted firmware folder contains file names corresponding to the buttons in Odin. Load the firmware files into the matching slots.
 
-![Screenshot]({{ "assets/odin.png" | relative_url }})
+![Screenshot](/assets/odin.png)
 
 > ⚠️ **Do not place anything in the USERDATA slot. This may permanently brick the device.**
 
