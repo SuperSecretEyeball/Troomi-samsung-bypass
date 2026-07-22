@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+theme: just-the-docs
+
+title: Samsung Troomi Factory Reset Guide
+description: A guide for replacing Troomi-managed Samsung firmware with official Samsung firmware.
