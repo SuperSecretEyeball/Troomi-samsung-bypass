@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Samsung Troomi Factory Reset Guide
 ---
 # Samsung Troomi Factory Reset Guide
